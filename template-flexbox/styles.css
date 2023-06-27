@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color:#bb4a4a;
+    padding: 60px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.row {
+    display: flex;
+    display: -webkit-flex;
+  }
+
+.column1 {
+    width: 25%;
+    padding: 30px;
+    height: 350px;    
+}
+.column2 {
+    width: 70%;
+    padding: 30px;
+    height: 350px;
+}
+.column3 {
+    width: 25%;
+    padding: 30px;
+    height: 350px;
+}
+.footer{
+        background-color: #bb4a4a;
+        padding: 20px;
+        text-align: center;
+
+      }
